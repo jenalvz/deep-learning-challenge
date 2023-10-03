@@ -14,6 +14,8 @@ Mod 21 Challenge - Deep Learning &amp; Neural Networks
     - Unfortunately, neither model achieved the target 75% Accuracy score. Optimized Model Attempt #2 achieved the closest score, with an accuracy score of 73.36%.
 
 - Results - A total of four models were developed. Results appear below:
+
+
     ![Original Model](Accuracy-Plots/Original-plot.png)
     - Original Model: 
         - hidden_nodes_layer1 = 85 (relu)
